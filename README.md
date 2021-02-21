@@ -1,0 +1,1 @@
+<p align="center"><img src="images/devops_exercises.png"/></p>
